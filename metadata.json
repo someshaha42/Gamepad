@@ -1,0 +1,6 @@
+{
+  "name": "Sounce Gaming Controller",
+  "description": "Native Android gaming controller supporting Bluetooth HID, USB HID compatibility, and Local Floating Overlay across Gamepad, Keyboard+Mouse, 35-Key Sounce RGB Gaming Keyboard, QWERTY Keyboard, and Mouse modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

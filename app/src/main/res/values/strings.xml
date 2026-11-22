@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sounce Controller</string>
+    <string name="accessibility_service_label">Sounce Local Touch Bridge</string>
+    <string name="accessibility_service_description">Dispatches touch taps, holds, and analog drag gestures from the Sounce Gaming Controller floating overlay onto on-screen game controls when Local Controller mode is active. No screen text or personal data is read or transmitted.</string>
+    <string name="overlay_notification_channel_name">Sounce Controller Overlay</string>
+    <string name="overlay_notification_title">Sounce Gaming Controller Active</string>
+    <string name="overlay_notification_text">Floating controller service is running. Tap to open or restore overlay.</string>
+    <string name="action_show_controller">Show Controller</string>
+    <string name="action_hide_controller">Hide Controller</string>
+    <string name="action_stop_overlay">Stop Overlay</string>
+    <string name="add_key_button">+ ADD KEY</string>
+    <string name="start_local_controller">START LOCAL CONTROLLER</string>
+    <string name="stop_local_controller">STOP LOCAL CONTROLLER</string>
+</resources>
